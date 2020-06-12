@@ -1,3 +1,3 @@
 # Dance and Cheer Tech
 
-Creativve computing kits for dancers and cheerleaders 
+Creative computing kits for dancers and cheerleaders 
