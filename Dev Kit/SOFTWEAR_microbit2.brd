@@ -7,7 +7,7 @@
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.0125" unitdist="inch" unit="inch" style="dots" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.05" unitdist="inch" unit="inch" style="dots" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="yes" active="yes"/>
@@ -180,9 +180,9 @@
 <text x="15.748" y="7.3025" size="1.778" layer="21" font="vector" ratio="25" rot="SR0" align="center">0</text>
 <text x="57.4675" y="10.033" size="1.778" layer="21" font="vector" ratio="25" rot="SR90" align="center">12</text>
 <text x="11.1125" y="9.9695" size="1.778" layer="21" font="vector" ratio="25" rot="SR270" align="center">8</text>
-<text x="13.0175" y="9.9695" size="1.778" layer="21" font="vector" ratio="25" rot="SR270" align="center">PIX</text>
-<text x="40.513" y="7.3025" size="1.778" layer="21" font="vector" ratio="25" rot="SR0" align="center">PIX/</text>
-<text x="55.5625" y="10.033" size="1.778" layer="21" font="vector" ratio="25" rot="SR90" align="center">PIX</text>
+<text x="13.0175" y="9.9695" size="1.778" layer="21" font="vector" ratio="25" rot="SR270" align="center">NEO</text>
+<text x="40.513" y="7.3025" size="1.778" layer="21" font="vector" ratio="25" rot="SR0" align="center">NEO/</text>
+<text x="55.5625" y="10.033" size="1.778" layer="21" font="vector" ratio="25" rot="SR90" align="center">NEO</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">

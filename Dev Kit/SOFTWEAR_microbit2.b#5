@@ -2106,9 +2106,9 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="H2" library="SparkFun-Electromechanical" package="STAND-OFF" value="STAND-OFF" x="62.23" y="26.67" smashed="yes"/>
 <element name="U$1" library="negasilk" package="NEGASILK_MICRO_BIT_BREAKOUT" value="" x="6.35" y="9.525" smashed="yes"/>
 <element name="U$2" library="negasilk" package="NEGASILK_MICRO_BIT_BREAKOUT" value="" x="11.43" y="9.525" smashed="yes" rot="MR0"/>
-<element name="FRAME2" library="SparkFun-Aesthetics" package="DUMMY" value="FRAME-LETTERNO_PACKAGE" x="45.72" y="-160.02" smashed="yes">
-<attribute name="DESIGNER" value="Nobody" x="-38.1" y="-12.7" size="1.778" layer="27" display="off"/>
-<attribute name="VERSION" value="v01" x="-38.1" y="-12.7" size="1.778" layer="27" display="off"/>
+<element name="FRAME2" library="SparkFun-Aesthetics" package="DUMMY" value="FRAME-LETTERNO_PACKAGE" x="3.81" y="-1.905" smashed="yes">
+<attribute name="DESIGNER" value="Nobody" x="-80.01" y="145.415" size="1.778" layer="27" display="off"/>
+<attribute name="VERSION" value="v01" x="-80.01" y="145.415" size="1.778" layer="27" display="off"/>
 </element>
 <element name="J3" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="50.8" y="6.35" smashed="yes">
 <attribute name="NAME" x="51.943" y="4.191" size="0.6096" layer="25" font="vector" ratio="20"/>
