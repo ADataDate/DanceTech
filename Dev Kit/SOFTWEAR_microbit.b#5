@@ -933,9 +933,9 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="CAP-00810" x="108.2675" y="56.8325" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="104.5845" y="61.2775" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center"/>
 </element>
-<element name="FRAME2" library="SparkFun-Aesthetics" package="DUMMY" value="FRAME-LETTERNO_PACKAGE" x="108.9025" y="59.69" smashed="yes" rot="R90">
-<attribute name="DESIGNER" value="Nobody" x="108.9025" y="59.69" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VERSION" value="v01" x="108.9025" y="59.69" size="1.778" layer="27" rot="R90" display="off"/>
+<element name="FRAME2" library="SparkFun-Aesthetics" package="DUMMY" value="FRAME-LETTERNO_PACKAGE" x="110.1725" y="62.23" smashed="yes" rot="R90">
+<attribute name="DESIGNER" value="Nobody" x="110.1725" y="62.23" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VERSION" value="v01" x="110.1725" y="62.23" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="J4" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="111.125" y="62.23" smashed="yes" rot="R90">
 <attribute name="NAME" x="113.284" y="60.833" size="0.6096" layer="25" font="vector" ratio="20" rot="R90"/>

@@ -192,8 +192,6 @@
 <wire x1="8.5725" y1="3.33375" x2="6.6675" y2="5.3975" width="0.2032" layer="20" curve="-90"/>
 <wire x1="6.6675" y1="18.0975" x2="8.5725" y2="19.84375" width="0.2032" layer="20" curve="-90"/>
 <wire x1="28.2575" y1="18.415" x2="26.489025" y2="19.84375" width="0.2032" layer="20" curve="90"/>
-<wire x1="48.26" y1="5.08" x2="48.26" y2="49.53" width="0.2032" layer="51"/>
-<wire x1="48.26" y1="49.53" x2="43.18" y2="54.61" width="0.2032" layer="51" curve="90"/>
 <wire x1="26.3525" y1="3.33375" x2="24.60625" y2="3.33375" width="0.2032" layer="20"/>
 <wire x1="23.33625" y1="3.33375" x2="13.49375" y2="3.33375" width="0.2032" layer="20"/>
 <wire x1="12.22375" y1="3.33375" x2="8.5725" y2="3.33375" width="0.2032" layer="20"/>
@@ -2731,7 +2729,6 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <vertex x="28.575" y="20.6375"/>
 <vertex x="28.575" y="2.8575"/>
 <vertex x="6.6675" y="2.8575"/>
-<vertex x="6.6675" y="20.6375"/>
 </polygon>
 </signal>
 </signals>
